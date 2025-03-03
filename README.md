@@ -1,64 +1,50 @@
-Below is an improved version of the README file for your GitHub repository, tailored to be professional, informative, and suitable for upload. It removes casual elements like emojis, enhances clarity, and provides all necessary details for users and contributors.
+# IQ-SHORTS  
 
----
+IQ-SHORTS is a platform designed to enhance knowledge and cognitive abilities through bite-sized, engaging facts. Unlike traditional entertainment-focused apps, IQ-SHORTS delivers concise, thought-provoking insights to stimulate intellectual growth.  
 
-# IQ-SHORTS
+## Key Features  
+- **Fact-Packed Shorts**: Discover quick, fascinating facts designed to expand your knowledge.  
+- **Sleek User Interface**: A clean, intuitive design built with Next.js, Tailwind CSS, and ShadCN.  
+- **Smooth Animations**: Enjoy fluid transitions and interactions powered by Framer Motion.  
+- **Smart Discovery**: Get a personalized feed tailored to your interests.  
+- **Modern Design Elements**: Contemporary UI using Lucide-react and Radix UI.  
 
-IQ-SHORTS is an innovative short-video platform designed to enhance users' knowledge and cognitive abilities. Unlike traditional entertainment-focused apps, IQ-SHORTS delivers concise, engaging videos packed with fascinating facts aimed at stimulating intellectual growth.
+## Tech Stack  
+- **Frontend**: Next.js, React, Tailwind CSS  
+- **Animations**: Framer Motion  
+- **UI Components**: ShadCN (built on Radix UI), Lucide-react  
+- **Package Manager**: Bun  
 
-## Key Features
-- **Fact-Packed Shorts**: Engage with short, informative videos designed to expand your knowledge.
-- **Sleek User Interface**: Experience a clean, intuitive design built with Next.js, Tailwind CSS, and ShadCN.
-- **Smooth Animations**: Enjoy fluid transitions and interactions powered by Framer Motion.
-- **Smart Discovery**: Benefit from a personalized content feed tailored to your interests.
-- **Modern Design Elements**: A contemporary visual appeal achieved with Lucide-react and Radix UI.
-
-## Tech Stack
-- **Frontend**: Next.js, React, Tailwind CSS
-- **Animations**: Framer Motion
-- **UI Components**: ShadCN (built on Radix UI), Lucide-react
-- **Package Manager**: Bun
-
-## Installation
-Before proceeding, ensure you have [Bun](https://bun.sh/) installed on your system. Clone the repository and run the following command to install the necessary dependencies:
+## Installation  
+Before proceeding, ensure you have [Bun](https://bun.sh/) installed on your system. Clone the repository and install dependencies:  
 
 ```sh
 bun i
 ```
 
-## Running the Project
-To start the development server, use the following command:
-
-DO NOT FORGET!
-```sh
-bun i framer-motion
-```
+## Running the Project  
+To start the development server, install required dependencies and run:  
 
 ```sh
-bun i lucide-react
-```
+bun i framer-motion  
+bun i lucide-react  
+bun i @radix-ui/react-tabs  
+bun dev  
+```  
 
-```sh
-bun i @radix-ui/react-tabs
-```
+Once the server is running, open [http://localhost:3000](http://localhost:3000) to view the application.  
 
-```sh
-bun dev
-```
+## Screenshots  
+![IQ-SHORTS Screenshot](screen.png)  
 
-Once the server is running, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
+## Contributing  
+We welcome contributions! If you have suggestions for improvements or new features, feel free to submit issues or pull requests.  
 
-## Screenshots
-![IQ-SHORTS Screenshot](screen.png)
-
-## Contributing
-We welcome contributions from the community! If you have suggestions for improvements or new features, please feel free to submit issues or pull requests.
-
-## License
-MIT License © 2025 IQ-SHORTS
+## License  
+MIT License © 2025 IQ-SHORTS  
 
 ---
 
-**"Learn something new in just 60 seconds!"**
+**"Learn something new in just 60 seconds!"**  
 
 ---
