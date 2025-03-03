@@ -49,7 +49,7 @@ bun dev
 Once the server is running, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## Screenshots
-_(Screenshots of the application will be added here soon.)_
+![IQ-SHORTS Screenshot](screen.png)
 
 ## Contributing
 We welcome contributions from the community! If you have suggestions for improvements or new features, please feel free to submit issues or pull requests.
